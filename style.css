@@ -1,0 +1,53 @@
+body,
+html {
+	
+	height: 100px;
+	font-family: 'Montserrat', sans-serif;
+	color: whitesmoke;
+	text-transform: uppercase;
+	
+
+
+	 background: url(https://cdn.decoist.com/wp-content/uploads/2014/06/Eclectic-New-York-City-Loft-870x520.jpg) no-repeat center center fixed; 
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+	 background-size: cover;
+}
+
+h1 {
+	font-size: 3rem;
+	color: #efe808;
+}
+
+
+
+
+hr {
+	border-color: darkorange;
+	border-width: 3px;
+	max-width: 65px;
+	
+
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: #E0115F;
+	border-color: #ff9899;
+}
+
+.btn-primary:hover {
+	background-color: #ff8692;
+	border-color: #ff8692;
+	border-width: 4px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
